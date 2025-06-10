@@ -1,8 +1,8 @@
 <div align="center">
-    <img src=".public/ts-create.png" alt="TS-CREATE" style="object-fit: cover; height: 200px; width: 100%;">
+    <img src=".public/ts-create-main.png" alt="TS-CREATE" style="height: 200px; width: 200">
 </div>
 
-<div align="center" style="padding-top: 30px">
+<div align="center">
     <h1>CLI utility for creating TS projects</h1>
 </div>
 
